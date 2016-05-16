@@ -37,8 +37,20 @@ dt{
   color:blue;
 }
 
+th{
+  border:1px solid lightcoral;
+  background-color:green;
+  padding:3px;
+  width:100;
+  text-align:left;
+}
 
-
+td{
+  border:1px solid lightcoral;
+  padding:3px;
+  width:100;
+  text-align:right;
+}
 
 
 
