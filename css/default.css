@@ -6,6 +6,7 @@ body{
 
 .explanation{
   float:left;
+  width:500px;
 }
 
 dt{
