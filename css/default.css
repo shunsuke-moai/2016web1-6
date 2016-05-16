@@ -1,0 +1,15 @@
+@charaset "utf-8";
+
+body{
+  background-color:#D0E0C0;
+}
+
+.explanation{
+  float:left;
+}
+
+dt{
+  clear:left;
+  float:left;
+  font-weight:bold;
+}
