@@ -14,3 +14,33 @@ dt{
   float:left;
   font-weight:bold;
 }
+
+.btn{
+  -webkit-apperance:none;
+  -webkit-border-radius:30;
+  margin:5px;
+  width:80px;
+  height:40px;
+  padding:10px;
+  font-size:20px;
+}
+
+.btn:hover{
+  opacity:0.5;
+}
+
+.btn:active{
+  color:green;
+}
+
+.btn:normal{
+  color:blue;
+}
+
+
+
+
+
+
+
+
